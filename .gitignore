@@ -1,0 +1,4 @@
+#Ignore images and sound files
+*.png
+*.wav
+*.qrc
