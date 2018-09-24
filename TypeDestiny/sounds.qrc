@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>start.wav</file>
-        <file>punch.wav</file>
-        <file>Block.wav</file>
-        <file>EnemyDead.wav</file>
-        <file>UserDead.wav</file>
-    </qresource>
-</RCC>
