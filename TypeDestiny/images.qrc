@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Logo.png</file>
+        <file>LogoDimmer1.png</file>
+        <file>LogoDimmer2.png</file>
+        <file>LogoDimmer3.png</file>
+        <file>LogoDimmer4.png</file>
+        <file>NamePrompt.png</file>
+        <file>border.png</file>
+        <file>black 2.png</file>
+        <file>black 3.png</file>
+        <file>black 4.png</file>
+        <file>black 5.png</file>
+        <file>black.png</file>
+        <file>border - Copy.png</file>
+        <file>Innocent_Mushroom.png</file>
+        <file>Skeltal.png</file>
+        <file>egg.png</file>
+        <file>evilEgg.png</file>
+        <file>Ghost.png</file>
+        <file>Ded.png</file>
+    </qresource>
+</RCC>
